@@ -1,0 +1,13 @@
+id_venta,fecha,producto,cantidad,precio_unitario,ciudad
+1,2026-11-20,Laptop,2,15000,Torreon
+2,2026-11-20,Monitor,3,3500,Saltillo
+3,2026-11-21,Teclado,5,800,Monterrey
+4,2026-11-21,Mouse,4,450,Torreon
+5,2026-11-22,Laptop,1,15000,Monterrey
+6,2026-11-22,Monitor,2,3500,Torreon
+7,2026-11-23,Teclado,3,800,Saltillo
+8,2026-11-23,Mouse,6,450,Monterrey
+9,2026-11-23,Monitor,,3500,Torreon
+10,2026-11-24,Laptop,2,15000,Saltillo
+10,2026-11-24,Laptop,2,15000,Saltillo
+11,2026-11-24,Mouse,-2,450,Torreon
